@@ -1,0 +1,32 @@
+aid: deutscher-bundestag-dip
+name: Deutscher Bundestag DIP
+description: "This API provides read access to DIP entities (e.g. activities, persons, printed material)"
+url: https://dip.bundestag.de/documents/informationsblatt_zur_dip_api_v01.pdf
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Government"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Government
+  - Public APIs
+apis:
+  - name: Deutscher Bundestag DIP
+    description: "This API provides read access to DIP entities (e.g. activities, persons, printed material)"
+    humanURL: https://dip.bundestag.de/documents/informationsblatt_zur_dip_api_v01.pdf
+    baseURL: https://dip.bundestag.de/documents/informationsblatt_zur_dip_api_v01.pdf
+    tags:
+      - Government
+    properties:
+      - type: Documentation
+        url: https://dip.bundestag.de/documents/informationsblatt_zur_dip_api_v01.pdf
+common:
+  - type: Website
+    url: https://dip.bundestag.de/documents/informationsblatt_zur_dip_api_v01.pdf
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
