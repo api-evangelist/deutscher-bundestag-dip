@@ -23,6 +23,10 @@ apis:
       - type: Documentation
         url: https://dip.bundestag.de/documents/informationsblatt_zur_dip_api_v01.pdf
 common:
+  - type: VulnerabilityDisclosure
+    url: security/deutscher-bundestag-dip-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/deutscher-bundestag-dip-domain-security.yml
   - type: Website
     url: https://dip.bundestag.de/documents/informationsblatt_zur_dip_api_v01.pdf
   - type: PublicAPIsListing
