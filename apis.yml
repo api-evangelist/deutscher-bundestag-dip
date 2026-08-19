@@ -14,7 +14,7 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/deutscher-
 name: Deutscher Bundestag DIP
 description: "This API provides read access to DIP entities (e.g. activities, persons, printed material)"
 url: https://dip.bundestag.de/documents/informationsblatt_zur_dip_api_v01.pdf
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-05-28'
 modified: '2026-05-28'
 x-source: public-apis/public-apis
