@@ -39,7 +39,6 @@ apis:
   - name: Deutscher Bundestag DIP
     description: "This API provides read access to DIP entities (e.g. activities, persons, printed material)"
     humanURL: https://dip.bundestag.de/documents/informationsblatt_zur_dip_api_v01.pdf
-    baseURL: https://dip.bundestag.de/documents/informationsblatt_zur_dip_api_v01.pdf
     tags:
       - Government
     properties:
